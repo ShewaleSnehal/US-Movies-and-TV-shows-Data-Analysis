@@ -5,7 +5,7 @@
 
 This project focuses on analyzing Movies and TV Shows data from major US streaming platforms such as Netflix, Prime Video, Hulu and Disney+. The main goal of this project is to understand viewer preferences, identify trending genres, compare platform-wise content availability and analyze IMDb ratings.
 
-The project was developed as an end-to-end Data Analytics project using Python for data cleaning, transformation, analysis, and visualization. Through this analysis, meaningful insights were generated about streaming trends, language preferences, and platform performance.
+The project was developed as an end-to-end Data Analytics project using Python for data cleaning, transformation, analysis and visualization. Through this analysis, meaningful insights were generated about streaming trends, language preferences and platform performance.
 
 ---
 
@@ -59,13 +59,13 @@ The first step was collecting the dataset containing information about movies an
 
 * Imported CSV dataset into Python environment.
 * Checked dataset structure and columns.
-* Explored rows, data types, and missing values.
+* Explored rows, data types and missing values.
 
 ---
 
 ## 2. Data Cleaning & Preprocessing
 
-Real-world datasets often contain null values, duplicate records, and inconsistent data. Data cleaning was one of the most important stages of this project.
+Real-world datasets often contain null values, duplicate records and inconsistent data. Data cleaning was one of the most important stages of this project.
 
 ### Tasks Performed:
 
@@ -105,7 +105,7 @@ To convert raw data into meaningful and understandable information.
 
 ## 4. Exploratory Data Analysis (EDA)
 
-EDA was performed to discover hidden patterns, trends, and relationships within the dataset.
+EDA was performed to discover hidden patterns, trends and relationships within the dataset.
 
 ### Analysis Covered:
 
@@ -221,7 +221,7 @@ To simplify complex data and make insights easier to understand.
 
 This project successfully demonstrated how data analytics can be used to understand streaming platform trends and viewer preferences.
 
-By applying data cleaning, preprocessing, visualization, and exploratory analysis techniques, meaningful insights were generated from raw streaming platform data.
+By applying data cleaning, preprocessing, visualization and exploratory analysis techniques, meaningful insights were generated from raw streaming platform data.
 
 The project also helped strengthen practical skills in:
 
@@ -233,7 +233,7 @@ The project also helped strengthen practical skills in:
 
 This end-to-end project reflects the complete workflow of a real-world Data Analytics project, from raw data collection to insight generation.
 
-
+---
 
 ## Future Improvements
 
